@@ -1,4 +1,4 @@
-#![Logo](opencurioslynxos.jpeg) OpenCuriosLynxOS
+#![Logo](opencurioslynxos.jpg) OpenCuriosLynxOS
 OpenCuriosLynx (Otwarty Ciekawy Ryś OS)
 ## Opis
 OpenCuriosLynxOS (Otwarty Ciekawy Ryś OS)
